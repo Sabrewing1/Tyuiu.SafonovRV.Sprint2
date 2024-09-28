@@ -22,7 +22,7 @@ namespace Tyuiu.SafonovRV.Sprint2.Task3.V7.Lib
                 {
                     if ((x > -11) && (x < 2))
                     {
-                        y = Math.Pow((7 + 1) / Math.Pow(x, 2), 2);
+                        y = Math.Pow(7 + 1 / Math.Pow(x, 2), 2);
                     }
                     else
                     {
