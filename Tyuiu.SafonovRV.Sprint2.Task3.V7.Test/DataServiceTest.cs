@@ -27,9 +27,9 @@ namespace Tyuiu.SafonovRV.Sprint2.Task3.V7.Test
         public void ValidCondition3()
         {
             DataService ds = new DataService();
-            double x = - 1 ;
+            double x = - 3 ;
             double res = ds.Calculate(x);
-            double wait = 64;
+            double wait = 50.568;
             Assert.AreEqual(wait, res);
         }
         [TestMethod]
