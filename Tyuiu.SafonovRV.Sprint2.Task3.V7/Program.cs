@@ -37,7 +37,7 @@ namespace Tyuiu.SafonovRV.Sprint2.Task3.V7
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine("Значение фуркции = " + res);
+            Console.WriteLine("Значение функции = " + res);
 
                 Console.ReadKey();
             }

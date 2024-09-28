@@ -16,7 +16,7 @@ namespace Tyuiu.SafonovRV.Sprint2.Task3.V7.Lib
             {
                 if (x == 0)
                 {
-                    y = (Math.Pow(x, 2) - Math.Cos(Math.Pow(x, 2) + 10)) / (Math.Pow(x, 2) - Math.Sin(Math.Pow(x, 2) + 12));
+                    y = (Math.Pow(x, 2) - Math.Cos(Math.Pow(x, 2)) + 10) / (Math.Pow(x, 2) - Math.Sin(Math.Pow(x, 2)) + 12);
                 }
                 else
                 {
