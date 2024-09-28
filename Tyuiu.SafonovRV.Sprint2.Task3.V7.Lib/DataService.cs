@@ -10,7 +10,7 @@ namespace Tyuiu.SafonovRV.Sprint2.Task3.V7.Lib
 
             if (x > 1)
             {
-                y = x *( Math.Pow(x,2) + 1) / ((x-1)) ;
+                y = x *(Math.Pow(( Math.Pow(x,2) + 1) / (x-1),x)) ;
             }
             else
             {

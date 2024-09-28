@@ -11,7 +11,7 @@ namespace Tyuiu.SafonovRV.Sprint2.Task3.V7.Test
             DataService ds = new DataService();
             double x = 2;
             double res = ds.Calculate(x);
-            double wait = 10;
+            double wait = 50;
             Assert.AreEqual(wait, res);
         }
         [TestMethod]
