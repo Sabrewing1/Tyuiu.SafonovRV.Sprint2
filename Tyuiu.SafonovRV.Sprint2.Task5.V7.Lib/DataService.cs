@@ -10,7 +10,7 @@ namespace Tyuiu.SafonovRV.Sprint2.Task5.V7.Lib
             {
                 n = n - 12;
             }
-            n += 0;
+            n += 1;
             string a;
             
             switch (n)
