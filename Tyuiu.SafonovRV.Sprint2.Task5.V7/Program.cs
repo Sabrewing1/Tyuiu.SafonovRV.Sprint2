@@ -35,7 +35,7 @@ namespace Tyuiu.SafonovRV.Sprint2.Task5.V7
                 }
                 else
                 {
-                    int  startYear = 1990;
+                    int  startYear = Convert.ToInt32(Console.ReadLine());
                     res = "Это месяц: " + ds.FindMonthName(startYear,numMouth);
 
 
