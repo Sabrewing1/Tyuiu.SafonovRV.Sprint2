@@ -13,9 +13,9 @@ namespace Tyuiu.SafonovRV.Sprint2.Task7.V10.Lib
                 {
                     res = true;
                 }
-                if ((y <= (2 - x * x)) && (y > 0) && (x <= Math.Sqrt(2)))
+                if ((y <= (2 - x * x)) && (y < 0) && (x <= Math.Sqrt(2)))
                 {
-                    res = false;
+                    res = true;
                 }
                 else
                 {

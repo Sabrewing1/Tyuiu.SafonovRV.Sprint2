@@ -12,7 +12,7 @@ namespace Tyuiu.SafonovRV.Sprint2.Task7.V10
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Алгоритмы разветвляющейся структуры                               *");
             Console.WriteLine("* Задание #7                                                              *");
-            Console.WriteLine("* Вариант #10                                                              *");
+            Console.WriteLine("* Вариант #10                                                             *");
             Console.WriteLine("* Выполнил: Сафонов Руслан Васильевич | АСОиУБ-24-1                       *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
