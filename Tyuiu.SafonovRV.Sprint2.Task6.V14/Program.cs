@@ -8,7 +8,7 @@ namespace Tyuiu.SafonovRV.Sprint2.Task6.V14
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #2 | Выполнила: Сафонов Р.В | АСОиУБ-24-1";
+            Console.Title = "Спринт #2 | Выполнил: Сафонов Р.В | АСОиУБ-24-1";
 
             Console.WriteLine("******************************************************************************");
             Console.WriteLine("* Спринт #2                                                                  *");
